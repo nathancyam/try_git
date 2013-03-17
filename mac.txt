@@ -1,1 +1,2 @@
 this is a test on the mac using github to sync across all devices in my repo
+hi, I just hijacked your mac txt

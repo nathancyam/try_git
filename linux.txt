@@ -1,2 +1,6 @@
 this is a test on the linux side of github
+<<<<<<< HEAD
 I have hijacked your linux fils
+=======
+adding some new text
+>>>>>>> cdb80df93db66639a86199fe1948736c1a862134
